@@ -1,0 +1,1 @@
+insert into User values ("Hadeel", "Email", 08.30,05.30,"ADMIN");

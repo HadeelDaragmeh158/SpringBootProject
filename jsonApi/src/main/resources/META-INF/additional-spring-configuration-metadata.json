@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.sql.init.platform",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.sql.init.platform."
+  }
+] }
